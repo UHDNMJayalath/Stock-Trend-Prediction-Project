@@ -1,0 +1,16 @@
+# Python virtual environment
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache files
+__pycache__/
+*.pyc
+
+# Notebook (optional)
+*.Stock Trend Prediction .ipynb
+
+# System files
+.DS_Store
