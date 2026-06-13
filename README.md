@@ -15,7 +15,7 @@ A full-stack machine learning web application that combines **LSTM deep learning
 
 | Dashboard | EDA Overview |
 |-----------|-------------|
-| ![Dashboard](screenshots/dashboard.png) | ![EDA](screenshots/eda.png) |
+| ![Dashboard](model/image.png) | ![EDA](screenshots/eda.png) |
 
 | LSTM Prediction | Feature Importance |
 |-----------------|-------------------|
