@@ -6,7 +6,7 @@ A full-stack machine learning web application that combines **LSTM deep learning
 
 ## 🔗 Live Demo & Repository
 
-- 🌐 **App:** *(Deploy link)*  
+
 - 💻 **GitHub:** [UHDNMJayalath/Stock-Trend-Prediction-Project](https://github.com/UHDNMJayalath/Stock-Trend-Prediction-Project)
 
 ---
@@ -204,8 +204,8 @@ Stock-Trend-Prediction-Project/
 **Nishaka Mahesh Jayalath**  
 Data Science Portfolio Project — 2026  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nishaka-jayalath)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/UHDNMJayalath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/nishaka-mahesh-61255534b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/UHDNMJayalaths)
 
 ---
 
