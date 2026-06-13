@@ -19,7 +19,7 @@ A full-stack machine learning web application that combines **LSTM deep learning
 
 | LSTM Prediction | Feature Importance |
 |-----------------|-------------------|
-| ![LSTM](screenshots/lstm.png) | ![RF](screenshots/rf.png) |
+| ![LSTM](model/static/stock_prediction.png) | ![RF](model/static/feature_importance.png) |
  
 
 ---
