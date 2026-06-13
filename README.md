@@ -13,13 +13,24 @@ A full-stack machine learning web application that combines **LSTM deep learning
 
 ## 🖼️ Preview
 
-| Dashboard | EDA Overview |
-|-----------|-------------|
-| ![Dashboard](model/image.png) | ![EDA](model/static/eda_overview.png) |
-
-| LSTM Prediction | Feature Importance |
-|-----------------|-------------------|
-| ![LSTM](model/static/stock_prediction.png) | ![RF](model/static/feature_importance.png) |
+<table>
+  <tr>
+    <td align="center"><b>Dashboard</b></td>
+    <td align="center"><b>EDA Overview</b></td>
+  </tr>
+  <tr>
+    <td><img src="model/image.png" width="400"/></td>
+    <td><img src="model/static/eda_overview.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>LSTM Prediction</b></td>
+    <td align="center"><b>Feature Importance</b></td>
+  </tr>
+  <tr>
+    <td><img src="model/static/stock_prediction.png" width="400"/></td>
+    <td><img src="model/static/feature_importance.png" width="400"/></td>
+  </tr>
+</table>
  
 
 ---
